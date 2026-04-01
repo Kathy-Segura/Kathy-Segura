@@ -38,7 +38,3 @@
 - 
 ## ✨ Frase que me representa
 > “La tecnología es mejor cuando une a las personas.” 💙
-
----
-⭐️ From [Kathering Segura](https://github.com/Kathy-Segura)
-
