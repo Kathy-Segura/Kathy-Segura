@@ -30,13 +30,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📊 Estadísticas de GitHub
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathy-Segura&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathy-Segura&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
 ## 📫 Conecta conmigo
 
 - 💼 LinkedIn: https://www.linkedin.com/in/katherine-s-segura-8050aa329/
